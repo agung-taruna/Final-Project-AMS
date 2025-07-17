@@ -1,0 +1,8 @@
+pandas
+openpyxl
+google-generativeai
+nltk
+gensim
+sastrawi
+pyLDAvis
+tqdm
